@@ -3,7 +3,7 @@
 ## CreateHashPassword
 
 ### auth:import in command line
-(screentshot/command-auth-import.png)
+https://github.com/LeeYoonSam/nodejs-firebase-auth-import-generate-hash-password-key/blob/master/screenshot/check-console.png
 
 ### Firebase Console
 (screentshot/check-console.png)
