@@ -1,5 +1,8 @@
 # Firebase auth:import
 
+## nodejs Start
+ * node generator.js
+
 ## CreateHashPassword
 
 ### auth:import in command line
